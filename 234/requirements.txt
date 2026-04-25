@@ -1,0 +1,2 @@
+nltk==3.8.1
+pyroaring==0.4.5
